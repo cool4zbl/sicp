@@ -1,4 +1,4 @@
 ## SICP
 
-Some exercises of mine during reading the book "SICP".
+My solutions to the exercised of the book "SICP".
 
